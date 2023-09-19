@@ -77,8 +77,6 @@ red blue
 
 wizard done
 
-reverse wizard
-
 
 1x2s
 
@@ -89,8 +87,6 @@ mage
 crypt
 
 pressure plate
-
-reverse pressure plate
 
 purple flags
 
