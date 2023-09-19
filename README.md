@@ -57,6 +57,96 @@ Supertall 6 done
 Flags 7 done
 
 Museum 5 
+
 Rails 9 done
+
+
+
+
+1x3s
+
+diagonal
+
+deathmite done
+
+catwalk
+
+gravel
+
+red blue
+
+wizard
+
+reverse wizard
+
+
+1x2s
+
+pedestal
+
+mage
+
+crypt
+
+pressure plate
+
+reverse pressure plate
+
+purple flags
+
+bridges
+
+archway
+
+grand library
+
+grass ruins
+
+redstone warrior
+
+skull
+
+balcony
+
+1x1s
+
+temple
+
+small stairs
+
+skully
+
+scaffolding
+
+raccoon
+
+overgrown
+
+overgrown chains
+
+lots of floors
+
+long hall
+
+logs
+
+golden oasis
+
+end
+
+dueces
+
+dome
+
+cobble wall pillar
+
+chains
+
+cages
+
+blue skulls
+
+
+
 
 
