@@ -44,7 +44,7 @@ Market 5 done
 
 Cathedral 8 done
 
-Buttons 5 half done
+Buttons 5 done
 
 Atlas 6 done
 
@@ -75,7 +75,7 @@ gravel
 
 red blue
 
-wizard
+wizard done
 
 reverse wizard
 
